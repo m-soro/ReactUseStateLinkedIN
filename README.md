@@ -1,6 +1,6 @@
 # React useState
 
-```
+```jsx
 /**
  * ---------
  * USESTATE
@@ -26,5 +26,4 @@ function App() {
 }
 
 export default App;
-
 ```
